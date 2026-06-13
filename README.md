@@ -1,6 +1,6 @@
-# EmbedKit_Shreenag
+# EmbedKit_sukanya
 
-**Author:** Shreenag  
+**Author:** sukanya  
 **Assessment:** Embedded Developer Assignment | Fresher | Embed Square Solutions
 
 ## Modules
